@@ -13,7 +13,7 @@
 
 - 🤝 I’m looking for help with **starting Open Source Contribution for GSOC and building some unique applications using Chat GPT**
 
-- 👨‍💻 All of my projects are available at [My Portfolio](https://yashwant-portfolio.netlify.app/)
+- 👨‍💻 All of my projects are available at [My Portfolio](https://yashwant.me/)
 
 - 📫 Reach me through Email **yashwant317201@gmail.com**
 
